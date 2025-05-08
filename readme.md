@@ -1,4 +1,3 @@
-Here’s a **thorough and professional README** for your GitHub repo that clearly explains the project and makes it easy for others (especially recruiters or collaborators) to understand what you did, why it matters, and how to run it:
 
 ---
 
@@ -19,7 +18,7 @@ Segment customers to:
 
 ## 📦 Dataset
 
-- **Source**: [UCI Machine Learning Repository – Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+- **Source**: Kaggle
 - **Description**: Includes customer transaction data for a UK-based online retail store between 2010 and 2011.
 
 ---
