@@ -105,6 +105,6 @@ rfm.groupby('Cluster').mean()
 ## 📬 Contact
 
 📧 Email: ogundimusodiq0@gmail.com  
-🐙 GitHub: [@your-username](https://github.com/sodiqlef)
+🐙 GitHub: [@sodiqlef](https://github.com/sodiqlef)
 
 ---
